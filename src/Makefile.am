@@ -89,6 +89,7 @@ rtl_433_SOURCES      = baseband.c \
                        devices/tpms_toyota.c \
                        devices/tpms_ford.c \
                        devices/tpms_renault.c \
+                       devices/faac.c \
                        devices/infactory.c \
 		       devices/fordremote.c
 

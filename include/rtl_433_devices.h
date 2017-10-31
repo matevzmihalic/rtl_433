@@ -96,6 +96,7 @@
 		DECL(tpms_renault) \
 		DECL(infactory) \
 		DECL(ft004b) \
+		DECL(faac) \
 		DECL(fordremote)
 
 
